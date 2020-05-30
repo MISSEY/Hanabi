@@ -252,7 +252,7 @@ def main(num_players=2, num_episodes = 1):
 
 if __name__ == "__main__":
     num_players = 2
-    num_episodes = 500
+    num_episodes = 50000
 
     # logging setup
     import logging
@@ -268,7 +268,6 @@ if __name__ == "__main__":
     
 
     rewards = main(num_players=num_players, num_episodes = num_episodes)
-    print(rewards)
 
     avg_reward = [sum(rewards[i:i+50])/50 for i in range(len(rewards)-50)]
 
