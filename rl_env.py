@@ -78,7 +78,9 @@ class DDQNAgent():
             else:
                 action = None
         else:
-            action = np.argmax(self.train_net(np.array(state).reshape(1, -1)))
+            logits = np.array(self.train_net(np.array(state).reshape(1, -1))[0])
+            actions = [x if i in legal_moves else 0 for i, x in enumerate(logits)]
+            action = np.argmax(actions)
         return action
 
         
@@ -214,8 +216,8 @@ class Runner(object):
                         assert action is None
                         
                 # Make an envirnment step:
-#                print("Action number :",current_player_action)
-#                print('Agent: {} action: {}'.format(observation['current_player'],self.environment.game.get_move(current_player_action).to_dict()))
+                print("Action number :",current_player_action)
+                print('Agent: {} action: {}'.format(observation['current_player'],self.environment.game.get_move(current_player_action).to_dict()))
 
                 next_observations, reward, done, _ = self.environment.step(self.environment.game.get_move(current_player_action).to_dict())
                 
@@ -250,7 +252,7 @@ def main(num_players=2, num_episodes = 1):
 
 if __name__ == "__main__":
     num_players = 2
-    num_episodes = 50000
+    num_episodes = 500
 
     # logging setup
     import logging
