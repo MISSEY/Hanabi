@@ -148,9 +148,9 @@ AGENT_CLASSES = {"DDQNAgent": DDQNAgent}
 class Runner(object):
     """Runner class"""
     
-    def __init__(self, flags, max_epsilon=1,min_epsilon = 0.01,lambda_ = 0.0005,
+    def __init__(self, flags, max_epsilon=1,min_epsilon = 0.00,lambda_ = 0.0005,
     gamma = 0.95, batch_size = 32, tau=0.08, max_experiences=400000,
-    min_experiences = 96,hidden_units =[30,30], lr =0.001):
+    min_experiences = 96,hidden_units =[200,200,200], lr =0.001):
         """Initialize runner"""
         self.flags = flags
         self.environment = rl_env.make('Hanabi-Very-Small', num_players=self.flags['players'])
