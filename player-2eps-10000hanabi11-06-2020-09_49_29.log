@@ -1,0 +1,263 @@
+11-06-2020-09:49:29,779 root INFO Episode: 0, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:32,784 root INFO Episode: 50, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:35,661 root INFO Episode: 100, Max reward:2, Avg Reward:0.04
+11-06-2020-09:49:37,960 root INFO Episode: 150, Max reward:1, Avg Reward:0.02
+11-06-2020-09:49:40,104 root INFO Episode: 200, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:43,17 root INFO Episode: 250, Max reward:3, Avg Reward:0.08
+11-06-2020-09:49:45,497 root INFO Episode: 300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:48,147 root INFO Episode: 350, Max reward:2, Avg Reward:0.04
+11-06-2020-09:49:50,536 root INFO Episode: 400, Max reward:5, Avg Reward:0.1
+11-06-2020-09:49:53,236 root INFO Episode: 450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:55,603 root INFO Episode: 500, Max reward:0, Avg Reward:0.0
+11-06-2020-09:49:58,346 root INFO Episode: 550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:00,896 root INFO Episode: 600, Max reward:1, Avg Reward:0.02
+11-06-2020-09:50:03,152 root INFO Episode: 650, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:05,919 root INFO Episode: 700, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:08,555 root INFO Episode: 750, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:11,17 root INFO Episode: 800, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:13,586 root INFO Episode: 850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:15,945 root INFO Episode: 900, Max reward:5, Avg Reward:0.1
+11-06-2020-09:50:18,620 root INFO Episode: 950, Max reward:1, Avg Reward:0.02
+11-06-2020-09:50:21,6 root INFO Episode: 1000, Max reward:3, Avg Reward:0.08
+11-06-2020-09:50:23,431 root INFO Episode: 1050, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:25,728 root INFO Episode: 1100, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:28,17 root INFO Episode: 1150, Max reward:1, Avg Reward:0.02
+11-06-2020-09:50:30,55 root INFO Episode: 1200, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:32,521 root INFO Episode: 1250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:35,434 root INFO Episode: 1300, Max reward:5, Avg Reward:0.18
+11-06-2020-09:50:37,646 root INFO Episode: 1350, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:39,801 root INFO Episode: 1400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:42,93 root INFO Episode: 1450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:44,617 root INFO Episode: 1500, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:46,790 root INFO Episode: 1550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:48,919 root INFO Episode: 1600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:50,933 root INFO Episode: 1650, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:53,220 root INFO Episode: 1700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:50:55,280 root INFO Episode: 1750, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:57,209 root INFO Episode: 1800, Max reward:2, Avg Reward:0.04
+11-06-2020-09:50:59,235 root INFO Episode: 1850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:01,222 root INFO Episode: 1900, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:03,20 root INFO Episode: 1950, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:05,194 root INFO Episode: 2000, Max reward:2, Avg Reward:0.04
+11-06-2020-09:51:07,226 root INFO Episode: 2050, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:09,39 root INFO Episode: 2100, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:11,34 root INFO Episode: 2150, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:12,905 root INFO Episode: 2200, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:14,620 root INFO Episode: 2250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:16,246 root INFO Episode: 2300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:17,851 root INFO Episode: 2350, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:19,640 root INFO Episode: 2400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:21,641 root INFO Episode: 2450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:23,402 root INFO Episode: 2500, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:25,196 root INFO Episode: 2550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:26,912 root INFO Episode: 2600, Max reward:3, Avg Reward:0.06
+11-06-2020-09:51:28,960 root INFO Episode: 2650, Max reward:4, Avg Reward:0.14
+11-06-2020-09:51:31,224 root INFO Episode: 2700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:33,405 root INFO Episode: 2750, Max reward:1, Avg Reward:0.02
+11-06-2020-09:51:34,986 root INFO Episode: 2800, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:36,470 root INFO Episode: 2850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:38,25 root INFO Episode: 2900, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:39,872 root INFO Episode: 2950, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:41,662 root INFO Episode: 3000, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:43,96 root INFO Episode: 3050, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:45,266 root INFO Episode: 3100, Max reward:4, Avg Reward:0.08
+11-06-2020-09:51:46,983 root INFO Episode: 3150, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:49,273 root INFO Episode: 3200, Max reward:5, Avg Reward:0.1
+11-06-2020-09:51:50,987 root INFO Episode: 3250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:52,591 root INFO Episode: 3300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:54,422 root INFO Episode: 3350, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:56,491 root INFO Episode: 3400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:51:58,67 root INFO Episode: 3450, Max reward:4, Avg Reward:0.08
+11-06-2020-09:51:59,561 root INFO Episode: 3500, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:01,413 root INFO Episode: 3550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:03,120 root INFO Episode: 3600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:04,620 root INFO Episode: 3650, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:06,324 root INFO Episode: 3700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:08,66 root INFO Episode: 3750, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:09,982 root INFO Episode: 3800, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:11,694 root INFO Episode: 3850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:13,365 root INFO Episode: 3900, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:14,979 root INFO Episode: 3950, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:16,674 root INFO Episode: 4000, Max reward:3, Avg Reward:0.06
+11-06-2020-09:52:19,65 root INFO Episode: 4050, Max reward:4, Avg Reward:0.08
+11-06-2020-09:52:21,100 root INFO Episode: 4100, Max reward:1, Avg Reward:0.02
+11-06-2020-09:52:22,687 root INFO Episode: 4150, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:24,555 root INFO Episode: 4200, Max reward:1, Avg Reward:0.02
+11-06-2020-09:52:26,208 root INFO Episode: 4250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:27,732 root INFO Episode: 4300, Max reward:3, Avg Reward:0.06
+11-06-2020-09:52:29,275 root INFO Episode: 4350, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:30,986 root INFO Episode: 4400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:32,871 root INFO Episode: 4450, Max reward:4, Avg Reward:0.14
+11-06-2020-09:52:34,402 root INFO Episode: 4500, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:36,5 root INFO Episode: 4550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:37,921 root INFO Episode: 4600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:39,583 root INFO Episode: 4650, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:40,941 root INFO Episode: 4700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:42,886 root INFO Episode: 4750, Max reward:4, Avg Reward:0.12
+11-06-2020-09:52:44,916 root INFO Episode: 4800, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:46,683 root INFO Episode: 4850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:48,541 root INFO Episode: 4900, Max reward:0, Avg Reward:0.0
+11-06-2020-09:52:50,545 root INFO Episode: 4950, Max reward:1, Avg Reward:0.02
+11-06-2020-09:52:52,525 root INFO Episode: 5000, Max reward:2, Avg Reward:0.04
+11-06-2020-09:52:54,432 root INFO Episode: 5050, Max reward:4, Avg Reward:0.08
+11-06-2020-09:52:56,330 root INFO Episode: 5100, Max reward:4, Avg Reward:0.08
+11-06-2020-09:52:58,393 root INFO Episode: 5150, Max reward:4, Avg Reward:0.16
+11-06-2020-09:53:00,60 root INFO Episode: 5200, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:02,392 root INFO Episode: 5250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:04,130 root INFO Episode: 5300, Max reward:2, Avg Reward:0.04
+11-06-2020-09:53:05,766 root INFO Episode: 5350, Max reward:3, Avg Reward:0.12
+11-06-2020-09:53:07,666 root INFO Episode: 5400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:09,167 root INFO Episode: 5450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:11,246 root INFO Episode: 5500, Max reward:3, Avg Reward:0.1
+11-06-2020-09:53:13,289 root INFO Episode: 5550, Max reward:5, Avg Reward:0.2
+11-06-2020-09:53:14,805 root INFO Episode: 5600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:16,535 root INFO Episode: 5650, Max reward:3, Avg Reward:0.06
+11-06-2020-09:53:18,392 root INFO Episode: 5700, Max reward:1, Avg Reward:0.02
+11-06-2020-09:53:20,310 root INFO Episode: 5750, Max reward:3, Avg Reward:0.08
+11-06-2020-09:53:22,28 root INFO Episode: 5800, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:23,892 root INFO Episode: 5850, Max reward:3, Avg Reward:0.06
+11-06-2020-09:53:25,739 root INFO Episode: 5900, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:27,527 root INFO Episode: 5950, Max reward:1, Avg Reward:0.04
+11-06-2020-09:53:29,299 root INFO Episode: 6000, Max reward:1, Avg Reward:0.02
+11-06-2020-09:53:31,117 root INFO Episode: 6050, Max reward:1, Avg Reward:0.02
+11-06-2020-09:53:32,781 root INFO Episode: 6100, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:34,722 root INFO Episode: 6150, Max reward:1, Avg Reward:0.04
+11-06-2020-09:53:36,661 root INFO Episode: 6200, Max reward:1, Avg Reward:0.02
+11-06-2020-09:53:37,947 root INFO Episode: 6250, Max reward:2, Avg Reward:0.04
+11-06-2020-09:53:39,678 root INFO Episode: 6300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:41,695 root INFO Episode: 6350, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:43,704 root INFO Episode: 6400, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:45,674 root INFO Episode: 6450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:47,406 root INFO Episode: 6500, Max reward:3, Avg Reward:0.06
+11-06-2020-09:53:49,454 root INFO Episode: 6550, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:50,618 root INFO Episode: 6600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:52,385 root INFO Episode: 6650, Max reward:1, Avg Reward:0.02
+11-06-2020-09:53:54,72 root INFO Episode: 6700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:53:56,14 root INFO Episode: 6750, Max reward:3, Avg Reward:0.1
+11-06-2020-09:53:57,877 root INFO Episode: 6800, Max reward:3, Avg Reward:0.08
+11-06-2020-09:53:59,450 root INFO Episode: 6850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:01,333 root INFO Episode: 6900, Max reward:3, Avg Reward:0.06
+11-06-2020-09:54:03,360 root INFO Episode: 6950, Max reward:3, Avg Reward:0.06
+11-06-2020-09:54:05,280 root INFO Episode: 7000, Max reward:5, Avg Reward:0.18
+11-06-2020-09:54:07,187 root INFO Episode: 7050, Max reward:3, Avg Reward:0.12
+11-06-2020-09:54:09,94 root INFO Episode: 7100, Max reward:2, Avg Reward:0.04
+11-06-2020-09:54:10,682 root INFO Episode: 7150, Max reward:3, Avg Reward:0.06
+11-06-2020-09:54:12,222 root INFO Episode: 7200, Max reward:3, Avg Reward:0.06
+11-06-2020-09:54:14,187 root INFO Episode: 7250, Max reward:2, Avg Reward:0.06
+11-06-2020-09:54:16,218 root INFO Episode: 7300, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:18,457 root INFO Episode: 7350, Max reward:3, Avg Reward:0.1
+11-06-2020-09:54:21,222 root INFO Episode: 7400, Max reward:2, Avg Reward:0.12
+11-06-2020-09:54:22,928 root INFO Episode: 7450, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:25,143 root INFO Episode: 7500, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:26,700 root INFO Episode: 7550, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:28,358 root INFO Episode: 7600, Max reward:3, Avg Reward:0.08
+11-06-2020-09:54:30,641 root INFO Episode: 7650, Max reward:1, Avg Reward:0.04
+11-06-2020-09:54:32,606 root INFO Episode: 7700, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:34,377 root INFO Episode: 7750, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:36,206 root INFO Episode: 7800, Max reward:3, Avg Reward:0.08
+11-06-2020-09:54:37,937 root INFO Episode: 7850, Max reward:2, Avg Reward:0.04
+11-06-2020-09:54:39,829 root INFO Episode: 7900, Max reward:1, Avg Reward:0.06
+11-06-2020-09:54:41,716 root INFO Episode: 7950, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:43,834 root INFO Episode: 8000, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:46,332 root INFO Episode: 8050, Max reward:1, Avg Reward:0.06
+11-06-2020-09:54:48,468 root INFO Episode: 8100, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:50,308 root INFO Episode: 8150, Max reward:3, Avg Reward:0.08
+11-06-2020-09:54:51,851 root INFO Episode: 8200, Max reward:1, Avg Reward:0.02
+11-06-2020-09:54:53,757 root INFO Episode: 8250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:55,834 root INFO Episode: 8300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:54:57,542 root INFO Episode: 8350, Max reward:1, Avg Reward:0.04
+11-06-2020-09:54:59,584 root INFO Episode: 8400, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:01,498 root INFO Episode: 8450, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:03,374 root INFO Episode: 8500, Max reward:1, Avg Reward:0.04
+11-06-2020-09:55:05,524 root INFO Episode: 8550, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:07,436 root INFO Episode: 8600, Max reward:1, Avg Reward:0.04
+11-06-2020-09:55:09,16 root INFO Episode: 8650, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:10,965 root INFO Episode: 8700, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:13,844 root INFO Episode: 8750, Max reward:4, Avg Reward:0.2
+11-06-2020-09:55:15,818 root INFO Episode: 8800, Max reward:3, Avg Reward:0.1
+11-06-2020-09:55:17,699 root INFO Episode: 8850, Max reward:2, Avg Reward:0.08
+11-06-2020-09:55:19,385 root INFO Episode: 8900, Max reward:2, Avg Reward:0.06
+11-06-2020-09:55:21,69 root INFO Episode: 8950, Max reward:1, Avg Reward:0.04
+11-06-2020-09:55:22,942 root INFO Episode: 9000, Max reward:2, Avg Reward:0.06
+11-06-2020-09:55:24,869 root INFO Episode: 9050, Max reward:3, Avg Reward:0.06
+11-06-2020-09:55:26,85 root INFO Episode: 9100, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:27,516 root INFO Episode: 9150, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:29,77 root INFO Episode: 9200, Max reward:3, Avg Reward:0.06
+11-06-2020-09:55:30,524 root INFO Episode: 9250, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:32,67 root INFO Episode: 9300, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:33,736 root INFO Episode: 9350, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:35,389 root INFO Episode: 9400, Max reward:1, Avg Reward:0.02
+11-06-2020-09:55:36,960 root INFO Episode: 9450, Max reward:3, Avg Reward:0.08
+11-06-2020-09:55:38,728 root INFO Episode: 9500, Max reward:2, Avg Reward:0.06
+11-06-2020-09:55:40,262 root INFO Episode: 9550, Max reward:2, Avg Reward:0.06
+11-06-2020-09:55:41,731 root INFO Episode: 9600, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:43,202 root INFO Episode: 9650, Max reward:3, Avg Reward:0.1
+11-06-2020-09:55:44,847 root INFO Episode: 9700, Max reward:2, Avg Reward:0.06
+11-06-2020-09:55:46,634 root INFO Episode: 9750, Max reward:5, Avg Reward:0.1
+11-06-2020-09:55:48,741 root INFO Episode: 9800, Max reward:1, Avg Reward:0.04
+11-06-2020-09:55:50,230 root INFO Episode: 9850, Max reward:0, Avg Reward:0.0
+11-06-2020-09:55:52,4 root INFO Episode: 9900, Max reward:4, Avg Reward:0.12
+11-06-2020-09:55:54,290 root INFO Episode: 9950, Max reward:3, Avg Reward:0.12
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,474 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,475 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-BoldOblique.ttf) oblique normal 700 condensed>) = 1.535
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-ExtraLight.ttf) normal normal light normal>) = 0.24
+11-06-2020-09:55:56,476 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerifCondensed-Italic.ttf) italic normal 400 condensed>) = 11.25
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Math TeX Gyre' (DejaVuMathTeXGyre.ttf) normal normal regular normal>) = 10.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerifCondensed.ttf) normal normal 400 condensed>) = 10.25
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerifCondensed-BoldItalic.ttf) italic normal 700 condensed>) = 11.535
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Bold.ttf) normal normal 700 condensed>) = 0.5349999999999999
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed-Oblique.ttf) oblique normal 400 condensed>) = 1.25
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans' (DejaVuSansCondensed.ttf) normal normal 400 condensed>) = 0.25
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,477 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerifCondensed-Bold.ttf) normal normal 700 condensed>) = 10.535
+11-06-2020-09:55:56,478 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+11-06-2020-09:55:56,478 matplotlib.font_manager DEBUG findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+11-06-2020-09:55:56,478 matplotlib.font_manager DEBUG findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/home/skmishra/anaconda3/envs/FR/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+11-06-2020-09:55:56,639 root INFO Completed.

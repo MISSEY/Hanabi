@@ -71,16 +71,18 @@ class DDQNAgent():
     
     def get_prob_action(self,legal_moves,action_dist, state, eps):
         if random.random() < eps:
-            actions = [x if i in legal_moves else 0 for i, x in enumerate(action_dist)]
-            if sum(actions)!=0:
-                actions = [x/sum(actions) for x in actions]
-                action = np.random.choice(list(range(self.action_size)), p=actions)
-            else:
-                action = None
+            action = np.random.choice(legal_moves)
+            #actions = [x if i in legal_moves else 0 for i, x in enumerate(action_dist)]
+            #if sum(actions)!=0:
+                #actions = [x/sum(actions) for x in actions]
+                #action = np.random.choice(list(range(self.action_size)), p=actions)
+            #else:
+                #action = None
         else:
             logits = np.array(self.train_net(np.array(state).reshape(1, -1))[0])
             actions = [x if i in legal_moves else 0 for i, x in enumerate(logits)]
             action = np.argmax(actions)
+        
         return action
 
         
@@ -148,9 +150,9 @@ AGENT_CLASSES = {"DDQNAgent": DDQNAgent}
 class Runner(object):
     """Runner class"""
     
-    def __init__(self, flags, max_epsilon=1,min_epsilon = 0.00,lambda_ = 0.0005,
+    def __init__(self, flags, max_epsilon=1,min_epsilon = 0.00,lambda_ = 0.00005,
     gamma = 0.95, batch_size = 32, tau=0.08, max_experiences=400000,
-    min_experiences = 96,hidden_units =[200,200,200], lr =0.001):
+    min_experiences = 96,hidden_units =[30,30], lr =0.00001):
         """Initialize runner"""
         self.flags = flags
         self.environment = rl_env.make('Hanabi-Very-Small', num_players=self.flags['players'])
@@ -252,7 +254,7 @@ def main(num_players=2, num_episodes = 1):
 
 if __name__ == "__main__":
     num_players = 2
-    num_episodes = 50000
+    num_episodes = 100000
 
     # logging setup
     import logging
