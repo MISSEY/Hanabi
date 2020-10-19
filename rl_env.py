@@ -152,10 +152,10 @@ class Runner(object):
     
     def __init__(self, flags, max_epsilon=1,min_epsilon = 0.00,lambda_ = 0.00005,
     gamma = 0.95, batch_size = 32, tau=0.08, max_experiences=400000,
-    min_experiences = 96,hidden_units =[30,30], lr =0.00001):
+    min_experiences = 96,hidden_units =[200,200,200], lr =0.00001):
         """Initialize runner"""
         self.flags = flags
-        self.environment = rl_env.make('Hanabi-Very-Small', num_players=self.flags['players'])
+        self.environment = rl_env.make('Hanabi-Full', num_players=self.flags['players'])
         self.agent_config = {"players": flags['players'],
                              'state_size':self.environment.vectorized_observation_shape()[0],
                              'action_size': self.environment.num_moves(),
@@ -253,8 +253,8 @@ def main(num_players=2, num_episodes = 1):
 
 
 if __name__ == "__main__":
-    num_players = 2
-    num_episodes = 100000
+    num_players = 5
+    num_episodes = 1000
 
     # logging setup
     import logging

@@ -62,6 +62,7 @@ class Runner(object):
       rewards.append(episode_reward)
       print('Running episode: %d' % episode)
       print('Max Reward: %.3f' % max(rewards))
+      print(observations)
     return rewards
 
 if __name__ == "__main__":
